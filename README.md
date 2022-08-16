@@ -1,7 +1,7 @@
 # Shopify-clone-tailwind
 
 Built time: 5 hrs
-
+deployed link :https://shopify-clone-vish.netlify.app/
 Completely mobile responsive with a hidden menu for mobile devices.
 
 ![home](https://user-images.githubusercontent.com/43082361/184872402-0ca146f6-2a0f-4c3b-90c1-3c7165982cc8.png)
